@@ -1,0 +1,10047 @@
+<Part 
+ name="F133_D1s"
+ aliasName=""
+ Library="D:\Design\Allegro_Lib"
+ LP_Library=""
+ LP_Name=""
+ pdfFilePath="C:\Users\15852\Desktop\F133_Datasheet_V1.0_whycan.pdf"
+ styleName="OrCAD_Capture"
+ NegationCode=""
+ pptName=""
+>
+
+<View 
+ name="symbols"
+ aliasName=""
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="0"
+ height="0"
+>
+
+<View 
+ name="1"
+ aliasName="F133_D1s_1of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-1500)(1500:0))"
+ cBox="((0:-1500)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="1500"
+>
+
+<Rectangle 
+ bBox="((0:-1500)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="3"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB2"
+ aliasName=""
+ annotatedName=""
+ pinText="PB2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="86"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="2"
+ sequence="4"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="4"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB3"
+ aliasName=""
+ annotatedName=""
+ pinText="PB3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="85"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="3"
+ sequence="5"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="5"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB4"
+ aliasName=""
+ annotatedName=""
+ pinText="PB4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="84"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="4"
+ sequence="6"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="6"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB5"
+ aliasName=""
+ annotatedName=""
+ pinText="PB5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="82"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="5"
+ sequence="7"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="7"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB6"
+ aliasName=""
+ annotatedName=""
+ pinText="PB6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="80"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="6"
+ sequence="8"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="8"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PB7"
+ aliasName=""
+ annotatedName=""
+ pinText="PB7"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="79"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="7"
+ sequence="9"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="9"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC2"
+ aliasName=""
+ annotatedName=""
+ pinText="PC2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="19"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="8"
+ sequence="10"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="10"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC3"
+ aliasName=""
+ annotatedName=""
+ pinText="PC3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="18"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="9"
+ sequence="11"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="11"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC4"
+ aliasName=""
+ annotatedName=""
+ pinText="PC4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="17"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="10"
+ sequence="12"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="12"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC5"
+ aliasName=""
+ annotatedName=""
+ pinText="PC5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="16"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="11"
+ sequence="13"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="13"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC6"
+ aliasName=""
+ annotatedName=""
+ pinText="PC6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="15"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="12"
+ sequence="14"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="14"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PC7"
+ aliasName=""
+ annotatedName=""
+ pinText="PC7"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="14"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="13"
+ sequence="15"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1725)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1850)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_1of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1500)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+<View 
+ name="2"
+ aliasName="F133_D1s_2of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-2800)(1500:0))"
+ cBox="((0:-2800)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="2800"
+>
+
+<Rectangle 
+ bBox="((0:-2800)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="15"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD0"
+ aliasName=""
+ annotatedName=""
+ pinText="PD0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="55"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="2"
+ sequence="16"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="16"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD1"
+ aliasName=""
+ annotatedName=""
+ pinText="PD1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="56"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="3"
+ sequence="17"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="17"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD2"
+ aliasName=""
+ annotatedName=""
+ pinText="PD2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="57"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="4"
+ sequence="18"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="18"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD3"
+ aliasName=""
+ annotatedName=""
+ pinText="PD3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="58"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="5"
+ sequence="19"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="19"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD4"
+ aliasName=""
+ annotatedName=""
+ pinText="PD4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="59"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="6"
+ sequence="20"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="20"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD5"
+ aliasName=""
+ annotatedName=""
+ pinText="PD5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="60"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="7"
+ sequence="21"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="21"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD6"
+ aliasName=""
+ annotatedName=""
+ pinText="PD6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="61"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="8"
+ sequence="22"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="22"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD7"
+ aliasName=""
+ annotatedName=""
+ pinText="PD7"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="62"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="9"
+ sequence="23"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="23"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD8"
+ aliasName=""
+ annotatedName=""
+ pinText="PD8"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="63"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="10"
+ sequence="24"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="24"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD9"
+ aliasName=""
+ annotatedName=""
+ pinText="PD9"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="64"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="11"
+ sequence="25"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="25"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD10"
+ aliasName=""
+ annotatedName=""
+ pinText="PD10"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="67"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="12"
+ sequence="26"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="26"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD11"
+ aliasName=""
+ annotatedName=""
+ pinText="PD11"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="68"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="13"
+ sequence="27"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="27"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD12"
+ aliasName=""
+ annotatedName=""
+ pinText="PD12"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="70"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="14"
+ sequence="28"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="28"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD13"
+ aliasName=""
+ annotatedName=""
+ pinText="PD13"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="69"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="15"
+ sequence="29"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="29"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD14"
+ aliasName=""
+ annotatedName=""
+ pinText="PD14"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="71"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="16"
+ sequence="30"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="30"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD15"
+ aliasName=""
+ annotatedName=""
+ pinText="PD15"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="72"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="17"
+ sequence="31"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="31"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD16"
+ aliasName=""
+ annotatedName=""
+ pinText="PD16"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="73"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="18"
+ sequence="32"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="32"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD17"
+ aliasName=""
+ annotatedName=""
+ pinText="PD17"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="74"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="19"
+ sequence="33"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="33"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD18"
+ aliasName=""
+ annotatedName=""
+ pinText="PD18"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="75"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="20"
+ sequence="34"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="34"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD19"
+ aliasName=""
+ annotatedName=""
+ pinText="PD19"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="76"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="21"
+ sequence="35"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="35"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD20"
+ aliasName=""
+ annotatedName=""
+ pinText="PD20"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="54"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="22"
+ sequence="36"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="36"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD21"
+ aliasName=""
+ annotatedName=""
+ pinText="PD21"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="53"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="23"
+ sequence="37"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="37"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PD22"
+ aliasName=""
+ annotatedName=""
+ pinText="PD22"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="52"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="24"
+ sequence="38"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="38"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-LVDS"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-LVDS"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="65"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="25"
+ sequence="39"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="39"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-PD"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-PD"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="66"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="2"
+ side="1"
+ position="26"
+ sequence="40"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_2of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+<View 
+ name="3"
+ aliasName="F133_D1s_3of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-1800)(1500:0))"
+ cBox="((0:-1800)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="1800"
+>
+
+<Rectangle 
+ bBox="((0:-1800)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="40"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE0"
+ aliasName=""
+ annotatedName=""
+ pinText="PE0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="44"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="2"
+ sequence="41"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="41"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE1"
+ aliasName=""
+ annotatedName=""
+ pinText="PE1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="45"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="3"
+ sequence="42"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="42"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE2"
+ aliasName=""
+ annotatedName=""
+ pinText="PE2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="35"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="4"
+ sequence="43"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="43"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE3"
+ aliasName=""
+ annotatedName=""
+ pinText="PE3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="33"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="5"
+ sequence="44"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="44"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE4"
+ aliasName=""
+ annotatedName=""
+ pinText="PE4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="43"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="6"
+ sequence="45"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="45"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE5"
+ aliasName=""
+ annotatedName=""
+ pinText="PE5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="42"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="7"
+ sequence="46"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="46"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE6"
+ aliasName=""
+ annotatedName=""
+ pinText="PE6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="41"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="8"
+ sequence="47"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="47"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE7"
+ aliasName=""
+ annotatedName=""
+ pinText="PE7"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="40"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="9"
+ sequence="48"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="48"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE8"
+ aliasName=""
+ annotatedName=""
+ pinText="PE8"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="39"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="10"
+ sequence="49"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="49"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE9"
+ aliasName=""
+ annotatedName=""
+ pinText="PE9"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="38"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="11"
+ sequence="50"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="50"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE10"
+ aliasName=""
+ annotatedName=""
+ pinText="PE10"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="37"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="12"
+ sequence="51"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="51"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE11"
+ aliasName=""
+ annotatedName=""
+ pinText="PE11"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="36"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="13"
+ sequence="52"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="52"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE12"
+ aliasName=""
+ annotatedName=""
+ pinText="PE12"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="32"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="14"
+ sequence="53"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="53"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PE13"
+ aliasName=""
+ annotatedName=""
+ pinText="PE13"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="31"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="15"
+ sequence="54"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="54"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-PE"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-PE"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="34"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="3"
+ side="1"
+ position="16"
+ sequence="55"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_3of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+<View 
+ name="4"
+ aliasName="F133_D1s_4of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-2700)(1500:0))"
+ cBox="((0:-2700)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="2700"
+>
+
+<Rectangle 
+ bBox="((0:-2700)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="55"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF0"
+ aliasName=""
+ annotatedName=""
+ pinText="PF0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="7"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="2"
+ sequence="56"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="56"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF1"
+ aliasName=""
+ annotatedName=""
+ pinText="PF1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="8"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="3"
+ sequence="57"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="57"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF2"
+ aliasName=""
+ annotatedName=""
+ pinText="PF2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="9"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="4"
+ sequence="58"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="58"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF3"
+ aliasName=""
+ annotatedName=""
+ pinText="PF3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="10"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="5"
+ sequence="59"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="59"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF4"
+ aliasName=""
+ annotatedName=""
+ pinText="PF4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="11"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="6"
+ sequence="60"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="60"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF5"
+ aliasName=""
+ annotatedName=""
+ pinText="PF5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="12"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="7"
+ sequence="61"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="61"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PF6"
+ aliasName=""
+ annotatedName=""
+ pinText="PF6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="13"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="8"
+ sequence="62"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="62"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG0"
+ aliasName=""
+ annotatedName=""
+ pinText="PG0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="120"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="9"
+ sequence="63"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="63"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG1"
+ aliasName=""
+ annotatedName=""
+ pinText="PG1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="118"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="10"
+ sequence="64"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="64"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG2"
+ aliasName=""
+ annotatedName=""
+ pinText="PG2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="119"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="11"
+ sequence="65"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="65"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG3"
+ aliasName=""
+ annotatedName=""
+ pinText="PG3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="121"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="12"
+ sequence="66"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="66"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG4"
+ aliasName=""
+ annotatedName=""
+ pinText="PG4"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="123"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="13"
+ sequence="67"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="67"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG5"
+ aliasName=""
+ annotatedName=""
+ pinText="PG5"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="122"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="14"
+ sequence="68"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="68"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG6"
+ aliasName=""
+ annotatedName=""
+ pinText="PG6"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="1"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="15"
+ sequence="69"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="69"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG7"
+ aliasName=""
+ annotatedName=""
+ pinText="PG7"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="2"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="16"
+ sequence="70"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="70"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG8"
+ aliasName=""
+ annotatedName=""
+ pinText="PG8"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="3"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="17"
+ sequence="71"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="71"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG9"
+ aliasName=""
+ annotatedName=""
+ pinText="PG9"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="4"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="18"
+ sequence="72"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="72"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG10"
+ aliasName=""
+ annotatedName=""
+ pinText="PG10"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="5"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="19"
+ sequence="73"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="73"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG11"
+ aliasName=""
+ annotatedName=""
+ pinText="PG11"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="6"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="20"
+ sequence="74"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="74"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG12"
+ aliasName=""
+ annotatedName=""
+ pinText="PG12"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="124"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="21"
+ sequence="75"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="75"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG13"
+ aliasName=""
+ annotatedName=""
+ pinText="PG13"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="125"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="22"
+ sequence="76"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="76"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG14"
+ aliasName=""
+ annotatedName=""
+ pinText="PG14"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="126"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="23"
+ sequence="77"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="77"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="PG15"
+ aliasName=""
+ annotatedName=""
+ pinText="PG15"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="127"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="24"
+ sequence="78"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="78"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-PG"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-PG"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="128"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="4"
+ side="1"
+ position="25"
+ sequence="79"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2825)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3050)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_4of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2700)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+<View 
+ name="5"
+ aliasName="F133_D1s_5of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-3400)(1500:0))"
+ cBox="((0:-3400)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="3400"
+>
+
+<Rectangle 
+ bBox="((0:-3400)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="79"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="RESET"
+ aliasName=""
+ annotatedName=""
+ pinText="RESET"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="27"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="2"
+ sequence="80"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="80"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="GPADC0"
+ aliasName=""
+ annotatedName=""
+ pinText="GPADC0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="101"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="3"
+ sequence="81"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="81"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TP-X1"
+ aliasName=""
+ annotatedName=""
+ pinText="TP-X1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="102"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="4"
+ sequence="82"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="82"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TP-X2"
+ aliasName=""
+ annotatedName=""
+ pinText="TP-X2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="103"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="5"
+ sequence="83"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="83"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TP-Y1"
+ aliasName=""
+ annotatedName=""
+ pinText="TP-Y1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="104"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="6"
+ sequence="84"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="84"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TP-Y2"
+ aliasName=""
+ annotatedName=""
+ pinText="TP-Y2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="105"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="7"
+ sequence="85"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="85"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="USB0-DM"
+ aliasName=""
+ annotatedName=""
+ pinText="USB0-DM"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="114"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="8"
+ sequence="86"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="86"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="USB0-DP"
+ aliasName=""
+ annotatedName=""
+ pinText="USB0-DP"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="115"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="9"
+ sequence="87"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="87"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="USB1-DM"
+ aliasName=""
+ annotatedName=""
+ pinText="USB1-DM"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="113"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="10"
+ sequence="88"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="88"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="USB1-DP"
+ aliasName=""
+ annotatedName=""
+ pinText="USB1-DP"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="112"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="2"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="11"
+ sequence="89"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="89"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TVOUT0"
+ aliasName=""
+ annotatedName=""
+ pinText="TVOUT0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="78"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="12"
+ sequence="90"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="90"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-TVOUT"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-TVOUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="77"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="13"
+ sequence="91"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="91"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TVIN0"
+ aliasName=""
+ annotatedName=""
+ pinText="TVIN0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="108"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="14"
+ sequence="92"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="92"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TVIN1"
+ aliasName=""
+ annotatedName=""
+ pinText="TVIN1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="109"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="15"
+ sequence="93"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="93"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TVIN-VRP"
+ aliasName=""
+ annotatedName=""
+ pinText="TVIN-VRP"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="110"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="16"
+ sequence="94"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="94"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="TVIN-VRN"
+ aliasName=""
+ annotatedName=""
+ pinText="TVIN-VRN"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="111"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="17"
+ sequence="95"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="95"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-TVIN"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-TVIN"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="107"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="18"
+ sequence="96"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="96"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MICIN3P"
+ aliasName=""
+ annotatedName=""
+ pinText="MICIN3P"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="87"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="19"
+ sequence="97"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="97"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MICIN3N"
+ aliasName=""
+ annotatedName=""
+ pinText="MICIN3N"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="88"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="20"
+ sequence="98"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="98"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="FMINR"
+ aliasName=""
+ annotatedName=""
+ pinText="FMINR"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="93"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="21"
+ sequence="99"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="99"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="FMINL"
+ aliasName=""
+ annotatedName=""
+ pinText="FMINL"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="94"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="22"
+ sequence="100"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="100"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LINEINR"
+ aliasName=""
+ annotatedName=""
+ pinText="LINEINR"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="95"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="23"
+ sequence="101"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="101"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LINEINL"
+ aliasName=""
+ annotatedName=""
+ pinText="LINEINL"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="96"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="24"
+ sequence="102"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="102"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="HPOUTR"
+ aliasName=""
+ annotatedName=""
+ pinText="HPOUTR"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="98"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="25"
+ sequence="103"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="103"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="HPOUTL"
+ aliasName=""
+ annotatedName=""
+ pinText="HPOUTL"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="99"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="26"
+ sequence="104"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="104"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="HPOUTFB"
+ aliasName=""
+ annotatedName=""
+ pinText="HPOUTFB"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="100"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="27"
+ sequence="105"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="105"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="HPVCC"
+ aliasName=""
+ annotatedName=""
+ pinText="HPVCC"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="97"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="28"
+ sequence="106"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="106"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VRA1"
+ aliasName=""
+ annotatedName=""
+ pinText="VRA1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="92"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="29"
+ sequence="107"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="107"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VRA2"
+ aliasName=""
+ annotatedName=""
+ pinText="VRA2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="90"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="30"
+ sequence="108"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="108"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="AVCC"
+ aliasName=""
+ annotatedName=""
+ pinText="AVCC"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="89"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="31"
+ sequence="109"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="109"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="AGND"
+ aliasName=""
+ annotatedName=""
+ pinText="AGND"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="91"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="5"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="5"
+ side="1"
+ position="32"
+ sequence="110"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3525)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3750)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_5of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-3400)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+<View 
+ name="6"
+ aliasName="F133_D1s_6of6"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:-2400)(1500:0))"
+ cBox="((0:-2400)(1200:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1200"
+ height="2400"
+>
+
+<Rectangle 
+ bBox="((0:-2400)(1200:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="0"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-DRAM0"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-DRAM0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="48"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="2"
+ sequence="1"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="1"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-DRAM1"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-DRAM1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="49"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="3"
+ sequence="2"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="2"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD18-DRAM"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD18-DRAM"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="50"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="4"
+ sequence="3"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="110"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="X32KIN"
+ aliasName=""
+ annotatedName=""
+ pinText="X32KIN"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="25"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="5"
+ sequence="111"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="111"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="X32KOUT"
+ aliasName=""
+ annotatedName=""
+ pinText="X32KOUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="24"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="6"
+ sequence="112"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="112"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-RTC"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-RTC"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="26"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="7"
+ sequence="113"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="113"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-PLL"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-PLL"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="20"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="8"
+ sequence="114"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="114"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="DXIN"
+ aliasName=""
+ annotatedName=""
+ pinText="DXIN"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="23"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="9"
+ sequence="115"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="115"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="DXOUT"
+ aliasName=""
+ annotatedName=""
+ pinText="DXOUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="22"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="10"
+ sequence="116"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="116"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="REFCLK-OUT"
+ aliasName=""
+ annotatedName=""
+ pinText="REFCLK-OUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="21"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="3"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="11"
+ sequence="117"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="117"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="NC"
+ aliasName=""
+ annotatedName=""
+ pinText="NC"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="47"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="10"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="12"
+ sequence="118"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="118"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="NC0"
+ aliasName=""
+ annotatedName=""
+ pinText="NC0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="106"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="13"
+ sequence="119"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="119"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LDO-IN"
+ aliasName=""
+ annotatedName=""
+ pinText="LDO-IN"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="29"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="14"
+ sequence="120"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="120"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LDOA-OUT"
+ aliasName=""
+ annotatedName=""
+ pinText="LDOA-OUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="28"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="15"
+ sequence="121"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="121"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LDOB-OUT"
+ aliasName=""
+ annotatedName=""
+ pinText="LDOB-OUT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="30"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="16"
+ sequence="122"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="122"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC-IO"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC-IO"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="83"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="17"
+ sequence="123"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="123"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD-SYS0"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD-SYS0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="46"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="18"
+ sequence="124"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="124"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD-SYS1"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD-SYS1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="51"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="19"
+ sequence="125"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="125"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD-SYS2"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD-SYS2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="81"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="20"
+ sequence="126"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="126"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD-CORE0"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD-CORE0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="116"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="21"
+ sequence="127"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="127"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VDD-CORE1"
+ aliasName=""
+ annotatedName=""
+ pinText="VDD-CORE1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="117"
+ pinNumberSwaps=""
+ hotSpot="(0:0)"
+ origin="(0:0)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="6"
+ side="1"
+ position="22"
+ sequence="128"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2525)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2750)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2400)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+</View>
+
+<Constraints 
+ name="OrCAD_Capture"
+>
+
+<Constraint 
+ name="1"
+ assignedName=""
+ width="1200"
+ height="1500"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1725)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1850)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_1of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1500)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1500)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Constraint 
+ name="2"
+ assignedName=""
+ width="1200"
+ height="2800"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_2of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Constraint 
+ name="3"
+ assignedName=""
+ width="1200"
+ height="1800"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_3of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1800)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Constraint 
+ name="4"
+ assignedName=""
+ width="1200"
+ height="2700"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2825)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3050)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_4of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2700)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2700)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Constraint 
+ name="5"
+ assignedName=""
+ width="1200"
+ height="3400"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3525)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3750)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s_5of6"
+ bBox="((0:0)(0:0))"
+ origin="(600:-3400)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-3400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Constraint 
+ name="6"
+ assignedName=""
+ width="1200"
+ height="2400"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2525)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2625)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2750)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="F133_D1s"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2400)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2400)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="F133_D1S"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="myValue"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Pin Name Visible"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SWAP_INFO"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Include SPLIT_INST"
+ aliasName=""
+ value="True"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="0"
+ color="0"
+ labelType="100"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraints>
+
+</Part>
+
+<DocumentElement>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>48</_x0030_>
+    <_x0031_>VCC-DRAM0</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>49</_x0030_>
+    <_x0031_>VCC-DRAM1</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>50</_x0030_>
+    <_x0031_>VDD18-DRAM</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>86</_x0030_>
+    <_x0031_>PB2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D0</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-DOUT2</_x0039_>
+    <_x0031_0>TWI0-SDA</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>I2S2-DIN2</_x0031_2>
+    <_x0031_3>LCD0-D18</_x0031_3>
+    <_x0031_4>UART4-TX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6 />
+    <_x0031_7 />
+    <_x0031_8>PB-EINT2</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>85</_x0030_>
+    <_x0031_>PB3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D1</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-DOUT1</_x0039_>
+    <_x0031_0>TWI0-SCK</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>I2S2-DIN0</_x0031_2>
+    <_x0031_3>LCD0-D19</_x0031_3>
+    <_x0031_4>UART4-RX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6 />
+    <_x0031_7 />
+    <_x0031_8>PB-EINT3</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>84</_x0030_>
+    <_x0031_>PB4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D8</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-DOUT0</_x0039_>
+    <_x0031_0>TWI1-SCK</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>I2S2-DIN1</_x0031_2>
+    <_x0031_3>LCD0-D20</_x0031_3>
+    <_x0031_4>UART5-TX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6 />
+    <_x0031_7 />
+    <_x0031_8>PB-EINT4</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>82</_x0030_>
+    <_x0031_>PB5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D9</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-BCLK</_x0039_>
+    <_x0031_0>TWI1-SDA</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>PWM0</_x0031_2>
+    <_x0031_3>LCD0-D21</_x0031_3>
+    <_x0031_4>UART5-RX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6 />
+    <_x0031_7 />
+    <_x0031_8>PB-EINT5</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>80</_x0030_>
+    <_x0031_>PB6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D16</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-LRCK</_x0039_>
+    <_x0031_0>TWI3-SCK</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>PWM1</_x0031_2>
+    <_x0031_3>LCD0-D22</_x0031_3>
+    <_x0031_4>UART3-TX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6>CPUBIST0</_x0031_6>
+    <_x0031_7 />
+    <_x0031_8>PB-EINT6</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>79</_x0030_>
+    <_x0031_>PB7</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+    <_x0037_>LCD0-D17</_x0037_>
+    <_x0038_ />
+    <_x0039_>I2S2-MCLK</_x0039_>
+    <_x0031_0>TWI3-SDA</_x0031_0>
+    <_x0031_1 />
+    <_x0031_2>IR-RX</_x0031_2>
+    <_x0031_3>LCD0-D23</_x0031_3>
+    <_x0031_4>UART3-RX</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6>CPUBIST1</_x0031_6>
+    <_x0031_7 />
+    <_x0031_8>PB-EINT7</_x0031_8>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>19</_x0030_>
+    <_x0031_>PC2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>18</_x0030_>
+    <_x0031_>PC3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>PU</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>17</_x0030_>
+    <_x0031_>PC4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>PU</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>16</_x0030_>
+    <_x0031_>PC5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>PU</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>15</_x0030_>
+    <_x0031_>PC6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>14</_x0030_>
+    <_x0031_>PC7</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>55</_x0030_>
+    <_x0031_>PD0</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>56</_x0030_>
+    <_x0031_>PD1</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>57</_x0030_>
+    <_x0031_>PD2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>58</_x0030_>
+    <_x0031_>PD3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>59</_x0030_>
+    <_x0031_>PD4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>60</_x0030_>
+    <_x0031_>PD5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>61</_x0030_>
+    <_x0031_>PD6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>62</_x0030_>
+    <_x0031_>PD7</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>63</_x0030_>
+    <_x0031_>PD8</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>64</_x0030_>
+    <_x0031_>PD9</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>67</_x0030_>
+    <_x0031_>PD10</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>68</_x0030_>
+    <_x0031_>PD11</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>70</_x0030_>
+    <_x0031_>PD12</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>69</_x0030_>
+    <_x0031_>PD13</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>71</_x0030_>
+    <_x0031_>PD14</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>72</_x0030_>
+    <_x0031_>PD15</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>73</_x0030_>
+    <_x0031_>PD16</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>74</_x0030_>
+    <_x0031_>PD17</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>75</_x0030_>
+    <_x0031_>PD18</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>76</_x0030_>
+    <_x0031_>PD19</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>54</_x0030_>
+    <_x0031_>PD20</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>53</_x0030_>
+    <_x0031_>PD21</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>52</_x0030_>
+    <_x0031_>PD22</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PD</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>65</_x0030_>
+    <_x0031_>VCC-LVDS</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>66</_x0030_>
+    <_x0031_>VCC-PD</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>44</_x0030_>
+    <_x0031_>PE0</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>45</_x0030_>
+    <_x0031_>PE1</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>35</_x0030_>
+    <_x0031_>PE2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>33</_x0030_>
+    <_x0031_>PE3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>43</_x0030_>
+    <_x0031_>PE4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>42</_x0030_>
+    <_x0031_>PE5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>41</_x0030_>
+    <_x0031_>PE6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>40</_x0030_>
+    <_x0031_>PE7</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>39</_x0030_>
+    <_x0031_>PE8</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>38</_x0030_>
+    <_x0031_>PE9</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>37</_x0030_>
+    <_x0031_>PE10</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>36</_x0030_>
+    <_x0031_>PE11</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>32</_x0030_>
+    <_x0031_>PE12</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>31</_x0030_>
+    <_x0031_>PE13</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PE</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>34</_x0030_>
+    <_x0031_>VCC-PE</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>7</_x0030_>
+    <_x0031_>PF0</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>8</_x0030_>
+    <_x0031_>PF1</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>9</_x0030_>
+    <_x0031_>PF2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>10</_x0030_>
+    <_x0031_>PF3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>11</_x0030_>
+    <_x0031_>PF4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>12</_x0030_>
+    <_x0031_>PF5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>13</_x0030_>
+    <_x0031_>PF6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>120</_x0030_>
+    <_x0031_>PG0</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>118</_x0030_>
+    <_x0031_>PG1</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>119</_x0030_>
+    <_x0031_>PG2</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>121</_x0030_>
+    <_x0031_>PG3</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>123</_x0030_>
+    <_x0031_>PG4</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>122</_x0030_>
+    <_x0031_>PG5</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>1</_x0030_>
+    <_x0031_>PG6</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>2</_x0030_>
+    <_x0031_>PG7</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>3</_x0030_>
+    <_x0031_>PG8</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>4</_x0030_>
+    <_x0031_>PG9</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>5</_x0030_>
+    <_x0031_>PG10</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>6</_x0030_>
+    <_x0031_>PG11</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>124</_x0030_>
+    <_x0031_>PG12</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>125</_x0030_>
+    <_x0031_>PG13</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>126</_x0030_>
+    <_x0031_>PG14</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>127</_x0030_>
+    <_x0031_>PG15</_x0031_>
+    <_x0032_>I/O</_x0032_>
+    <_x0033_>Z</_x0033_>
+    <_x0034_>PU/PD</_x0034_>
+    <_x0035_>4</_x0035_>
+    <_x0036_>VCC-PG</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>128</_x0030_>
+    <_x0031_>VCC-PG</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>27</_x0030_>
+    <_x0031_>RESET</_x0031_>
+    <_x0032_>I, OD</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-RTC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>101</_x0030_>
+    <_x0031_>GPADC0</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>102</_x0030_>
+    <_x0031_>TP-X1</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>103</_x0030_>
+    <_x0031_>TP-X2</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>104</_x0030_>
+    <_x0031_>TP-Y1</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>105</_x0030_>
+    <_x0031_>TP-Y2</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>114</_x0030_>
+    <_x0031_>USB0-DM</_x0031_>
+    <_x0032_>A I/O</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>115</_x0030_>
+    <_x0031_>USB0-DP</_x0031_>
+    <_x0032_>A I/O</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>113</_x0030_>
+    <_x0031_>USB1-DM</_x0031_>
+    <_x0032_>A I/O</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>112</_x0030_>
+    <_x0031_>USB1-DP</_x0031_>
+    <_x0032_>A I/O</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-IO</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>78</_x0030_>
+    <_x0031_>TVOUT0</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-TVOUT</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>77</_x0030_>
+    <_x0031_>VCC-TVOUT</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>108</_x0030_>
+    <_x0031_>TVIN0</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-TVIN</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>109</_x0030_>
+    <_x0031_>TVIN1</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-TVIN</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>110</_x0030_>
+    <_x0031_>TVIN-VRP</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-TVIN</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>111</_x0030_>
+    <_x0031_>TVIN-VRN</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-TVIN</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>107</_x0030_>
+    <_x0031_>VCC-TVIN</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>87</_x0030_>
+    <_x0031_>MICIN3P</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>88</_x0030_>
+    <_x0031_>MICIN3N</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>93</_x0030_>
+    <_x0031_>FMINR</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>94</_x0030_>
+    <_x0031_>FMINL</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>95</_x0030_>
+    <_x0031_>LINEINR</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>96</_x0030_>
+    <_x0031_>LINEINL</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>98</_x0030_>
+    <_x0031_>HPOUTR</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>HPVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>99</_x0030_>
+    <_x0031_>HPOUTL</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>HPVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>100</_x0030_>
+    <_x0031_>HPOUTFB</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>HPVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>97</_x0030_>
+    <_x0031_>HPVCC</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>92</_x0030_>
+    <_x0031_>VRA1</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>90</_x0030_>
+    <_x0031_>VRA2</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>AVCC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>89</_x0030_>
+    <_x0031_>AVCC</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>91</_x0030_>
+    <_x0031_>AGND</_x0031_>
+    <_x0032_>G</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>25</_x0030_>
+    <_x0031_>X32KIN</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-RTC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>24</_x0030_>
+    <_x0031_>X32KOUT</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-RTC</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>26</_x0030_>
+    <_x0031_>VCC-RTC</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>20</_x0030_>
+    <_x0031_>VCC-PLL</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>23</_x0030_>
+    <_x0031_>DXIN</_x0031_>
+    <_x0032_>AI</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-PLL</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>22</_x0030_>
+    <_x0031_>DXOUT</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-PLL</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>21</_x0030_>
+    <_x0031_>REFCLK-OUT</_x0031_>
+    <_x0032_>AO</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>VCC-PLL</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>47</_x0030_>
+    <_x0031_>NC</_x0031_>
+    <_x0032_>NA</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>106</_x0030_>
+    <_x0031_>NC0</_x0031_>
+    <_x0032_>NA</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>29</_x0030_>
+    <_x0031_>LDO-IN</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>28</_x0030_>
+    <_x0031_>LDOA-OUT</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>30</_x0030_>
+    <_x0031_>LDOB-OUT</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>83</_x0030_>
+    <_x0031_>VCC-IO</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>46</_x0030_>
+    <_x0031_>VDD-SYS0</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>51</_x0030_>
+    <_x0031_>VDD-SYS1</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>81</_x0030_>
+    <_x0031_>VDD-SYS2</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>116</_x0030_>
+    <_x0031_>VDD-CORE0</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>117</_x0030_>
+    <_x0031_>VDD-CORE1</_x0031_>
+    <_x0032_>P</_x0032_>
+    <_x0033_>NA</_x0033_>
+    <_x0034_>NA</_x0034_>
+    <_x0035_>NA</_x0035_>
+    <_x0036_>NA</_x0036_>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB2</_x0030_>
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D0</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-DOUT2</_x0037_>
+    <_x0038_>TWI0-SDA</_x0038_>
+    <_x0039_ />
+    <_x0031_0>I2S2-DIN2</_x0031_0>
+    <_x0031_1>LCD0-D18</_x0031_1>
+    <_x0031_2>UART4-TX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4 />
+    <_x0031_5 />
+    <_x0031_6>PB-EINT2</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB3</_x0030_>
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D1</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-DOUT1</_x0037_>
+    <_x0038_>TWI0-SCK</_x0038_>
+    <_x0039_ />
+    <_x0031_0>I2S2-DIN0</_x0031_0>
+    <_x0031_1>LCD0-D19</_x0031_1>
+    <_x0031_2>UART4-RX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4 />
+    <_x0031_5 />
+    <_x0031_6>PB-EINT3</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB4</_x0030_>
+    <_x0031_ />
+    <_x0032_>GPIOB</_x0032_>
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D8</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-DOUT0</_x0037_>
+    <_x0038_>TWI1-SCK</_x0038_>
+    <_x0039_ />
+    <_x0031_0>I2S2-DIN1</_x0031_0>
+    <_x0031_1>LCD0-D20</_x0031_1>
+    <_x0031_2>UART5-TX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4 />
+    <_x0031_5 />
+    <_x0031_6>PB-EINT4</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB5</_x0030_>
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D9</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-BCLK</_x0037_>
+    <_x0038_>TWI1-SDA</_x0038_>
+    <_x0039_ />
+    <_x0031_0>PWM0</_x0031_0>
+    <_x0031_1>LCD0-D21</_x0031_1>
+    <_x0031_2>UART5-RX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4 />
+    <_x0031_5 />
+    <_x0031_6>PB-EINT5</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB6</_x0030_>
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D16</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-LRCK</_x0037_>
+    <_x0038_>TWI3-SCK</_x0038_>
+    <_x0039_ />
+    <_x0031_0>PWM1</_x0031_0>
+    <_x0031_1>LCD0-D22</_x0031_1>
+    <_x0031_2>UART3-TX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4>CPUBIST0</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6>PB-EINT6</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_>PB7</_x0030_>
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_>I/O</_x0034_>
+    <_x0035_>LCD0-D17</_x0035_>
+    <_x0036_ />
+    <_x0037_>I2S2-MCLK</_x0037_>
+    <_x0038_>TWI3-SDA</_x0038_>
+    <_x0039_ />
+    <_x0031_0>IR-RX</_x0031_0>
+    <_x0031_1>LCD0-D23</_x0031_1>
+    <_x0031_2>UART3-RX</_x0031_2>
+    <_x0031_3 />
+    <_x0031_4>CPUBIST1</_x0031_4>
+    <_x0031_5 />
+    <_x0031_6>PB-EINT7</_x0031_6>
+  </TABLE_SCRATCHPAD_DATA>
+  <TABLE_SCRATCHPAD_DATA>
+    <_x0030_ />
+    <_x0031_ />
+    <_x0032_ />
+    <_x0033_ />
+    <_x0034_ />
+    <_x0035_ />
+    <_x0036_ />
+    <_x0037_ />
+    <_x0038_ />
+    <_x0039_ />
+    <_x0031_0 />
+    <_x0031_1 />
+    <_x0031_2 />
+    <_x0031_3 />
+    <_x0031_4 />
+    <_x0031_5 />
+    <_x0031_6 />
+  </TABLE_SCRATCHPAD_DATA>
+</DocumentElement>
