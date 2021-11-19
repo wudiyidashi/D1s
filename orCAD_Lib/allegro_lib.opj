@@ -10,7 +10,8 @@
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    (NoModify))
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout")
   (Folder "Outputs")
   (Folder "Referenced Projects")
@@ -26,12 +27,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\allegro_lib.olb")
-      (Select "Design Resources" ".\allegro_lib.olb" "F133_D1s"))
+      (Path "Design Resources" "e:\d1s\orcad_lib\allegro_lib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 568"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
       (Tab 0)))
-  (MPSSessionName "Lewis"))
+  (MPSSessionName "yuekai"))
